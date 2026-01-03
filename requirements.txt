@@ -1,0 +1,5 @@
+Flask[async]
+requests
+aiohttp
+google-generativeai
+beautifulsoup4
